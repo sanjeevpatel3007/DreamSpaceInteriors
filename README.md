@@ -18,7 +18,7 @@ Welcome to DreamSpace Interiors! Our website showcases our interior design and d
 Visit our website: [DreamSpace Interiors](https://rkinterior.netlify.app/)
 
 ## Contact Us
-- **Email:** your-email@gmail.com
+- **Email:**
 - **WhatsApp:** +91
 - **Phone:** +91
 
